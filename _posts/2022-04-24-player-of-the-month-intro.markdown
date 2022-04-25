@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kriegsspieler of the Month - Introduction
+title: Kriegsspieler of the Month Introduction
 date: 2022-04-24 20:00:00 +0300
 description: 
 img: victorian_kriegsspielers.png # Add image post (optional)
