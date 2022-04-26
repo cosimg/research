@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kriegsspieler of the Month - Carl von Müffling (1775 – 1851)
-date: WE DONT KNOW YET #2022-04-26 20:00:00 +0300
+date: 2022-04-26 20:00:00 +0300
 description: 
 img: Mueffling.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
