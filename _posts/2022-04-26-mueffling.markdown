@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kriegsspieler of the Month - Carl von Müffling (1775 – 1851)
+title: Kriegsspieler of the Month - Carl von Müffling (1775 - 1851)
 date: 2022-04-26 20:00:00 +0300
 description: 
 img: Mueffling.png # Add image post (optional)
@@ -22,6 +22,6 @@ As chief of the general staff, Müffling's impact on the Prussian army was consi
 
 As noted in the beginning, Müffling's importance for the history of the Prussian Kriegsspiel can be hardly overestimated – it was him who Reisswitz and his friends managed to convince of the usefulness of the Kriegsspiel, and it was he who then convinced the king to issue an edict within weeks instructing all regiments to acquire a set of the Kriegsspiel. Looking closer at Müffling's activities during the late 1810s and early 1820s shows how incredibly lucky Reisswitz and his friends had been: with his deep interest into topography and officer education Müffling probably was the single most receptive officer for something like the Prussian Kriegsspiel throughout the whole Prussian army. Had anyone else been in his position in that fateful spring of 1824, it is likely that the Kriegsspiel would have never been introduced into the Prussian army.
 
-Although some of his papers survive there is at present no in-depth study on Müffling and his role in the transformation of the Prussian army extant; the Neue Deutsche Biographie includes a useful but very brief biography (J. Niemeyer. 1997. "Müffling, Karl Freiherr von". NDB 18, 266-267). In 1844 Müffling himself completed work on two volumes of memoires in 1844 which he instructed his son Eduard von Müffling to publish only after his death; they appeared in redacted form in 1851. Currently the best source for information on Carl von Müffling is the 2003 edition of his memoirs (H.-J. Behr. 2003. Karl Freiherr von Müffling. Offizier – Kartograph – Politiker (1775-1851). Köln: Böhlau) which includes sections on the campaigns of 1813 to 1815 which were not published in 1851 as they were deemed to be too critical.
+Although some of his papers survive there is at present no in-depth study on Müffling and his role in the transformation of the Prussian army extant; the Neue Deutsche Biographie includes a useful but very brief biography (J. Niemeyer. 1997. "Müffling, Karl Freiherr von". NDB 18, 266-267). In 1844 Müffling himself completed work on two volumes of memoires in 1844 which he instructed his son Eduard von Müffling to publish only after his death; they appeared in redacted form in 1851. Currently the best source for information on Carl von Müffling is the 2003 edition of his memoirs (H.-J. Behr. 2003. Karl Freiherr von Müffling. Offizier - Kartograph - Politiker (1775-1851). Köln: Böhlau) which includes sections on the campaigns of 1813 to 1815 which were not published in 1851 as they were deemed to be too critical.
 
 So much for this month's Kriegsspieler. Next month we will look at Georg Heinrich von Reisswitz, the - at the time - young artillery lieutenant who actually invented the Kriegsspiel. For more on that (including on why "invention" is actually the correct term) see next month's instalment of Kriegsspieler of the Month.
