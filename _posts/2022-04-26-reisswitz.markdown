@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kriegsspieler of the Month - Georg von Reisswitz (1794 - 1827)
-date: 2022-04-26 20:00:00 +0300
+date: 2022-05-24 20:00:00 +0300
 description: 
 img: Kaserne_Gardeartillerie_Berlin.jpg # Add image post (optional)
 fig-caption: "Anonymus, barracks of the Garde-Fuß-Artillerie, Berlin, around 1830; Architekturmuseum der TU Berlin, Inv. Nr. 46084"  # Add figcaption (optional)
