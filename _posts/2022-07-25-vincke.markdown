@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kriegsspieler of the Month - Freiherr von Vincke (1800 - 1869)
+title: Kriegsspieler of the Month - Karl Friedrich Ludwig Freiherr von Vincke (1800 - 1869)
 date: 2022-07-25 20:00:00 +0300
 description: 
 img: tropaeum_traiani.png # Add image post (optional)
