@@ -1,4 +1,16 @@
-Karl Gustav Julius von Griesheim (1798-1854)
+---
+layout: page
+title: Kriegsspieler of the Month - Karl Gustav Julius von Griesheim (1798-1854)
+date: 2022-08-25 20:00:00 +0300
+description: 
+img: tropaeum_traiani.png # Add image post (optional)
+fig-caption: # The tropaeum Traiani as it would have appeared to 19th c. visitors (after Tocilesco, G.G. et al. 1895. Das Monument von Adamklissi - Tropaeum Traiani.  Wien: Alfred Hoelder, p. 1). # Add figcaption (optional)
+tags: [about]
+---
+
+*by Jorit Wintjes*
+
+
 
 With this month's Kriegsspieler we conclude our closer look at the inner circle around Reisswitz, that is at those who were explicitly mentioned by Reisswitz in his introduction for having made a significant contribution to the 1824 publication, or rather, as was explained last month, a crucial one given Reisswitz' absence from Berlin much of the summer of 1824. With Griesheim another capable and successful officers appears on the stage, who not only rose to become one of Prussia's first generals of the post-Napoleonic period as well as one of the youngest, but also shared with Vincke a considerable involvement in Prussian politics, though on the opposite side of the political spectrum. He also was one of the first officers attending not only the Kriegsschule but also Berlin university, studying with some of the leading civilian scholars of his time.
 
