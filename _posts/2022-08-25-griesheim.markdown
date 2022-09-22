@@ -3,7 +3,7 @@ layout: page
 title: Kriegsspieler of the Month - Karl Gustav Julius von Griesheim (1798-1854)
 date: 2022-08-25 20:00:00 +0300
 description: 
-img: griesheim111.png # Add image post (optional)
+img: Griesheim111.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [about]
 ---
