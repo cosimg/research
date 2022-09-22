@@ -22,6 +22,10 @@ Promoted lieutenant colonel in 1847 he became head of the General Military Offic
 
 Promoted colonel, Griesheim became the first commanding officer of the Prussian garrison of Koblenz, where between 1817 and 1834 Prussia's largest and most modern fortress had been contructed. He continued to work as a military writer while at Koblenz and published on mobilization issues. In 1853 Griesheim was promoted major general, but died barely a year later of a rare kidney disease. One of his students at the Kriegsschule, Arthur Ehrenfried Waldemar von Horn (1819-1893), who would rise to the rank of major general himself, published his lectures on tactics after his death; the "Vorlesungen über die Taktik" proved to be as influential as Griesheim's "Der Compagnie-Dienst".
 
+![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Griesheim111.png)
+
+Griesheim's two most influential publications, the "Compagnie-Dienst" originally published in 1837 and the posthumously published "Vorlesungen".
+
 There is no modern in-depth study on Griesheim extant, although several shorter biographies exist, and due to his involvement in Prussian military politics he also appears now and then in general literature. The most extensive coverage of his life can be found in an anonymous piece published barely a few weeks after his death as a supplement to the Prussian army's military journal, the Militair-Wochenblatt (Anonymus. 1854. Zur Erinnerung an den Generalmajor von Griesheim. Beiheft zum Militair-Wochenblatt für Januar 1854. Berlin: Mittler); it is, however, quite hagiographic in character.
 
 So much for this month's Kriegsspieler. In the history of the Prussian Kriegsspiel, the next logical group of Kriegsspielers to look at would be the officers involved in the 1828 Supplement. There is however one additional officer, Friedrich Adrian Herwarth von Bittenfeld, who has been associated by contemporaries with the initial group around Reisswitz although he is not directly mentioned in Reisswitz' introduction.  For more on him see next month's installment of Kriegsspieler of the Month.
