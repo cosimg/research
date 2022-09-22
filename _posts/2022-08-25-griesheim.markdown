@@ -3,8 +3,8 @@ layout: page
 title: Kriegsspieler of the Month - Karl Gustav Julius von Griesheim (1798-1854)
 date: 2022-08-25 20:00:00 +0300
 description: 
-img: tropaeum_traiani.png # Add image post (optional)
-fig-caption: # The tropaeum Traiani as it would have appeared to 19th c. visitors (after Tocilesco, G.G. et al. 1895. Das Monument von Adamklissi - Tropaeum Traiani.  Wien: Alfred Hoelder, p. 1). # Add figcaption (optional)
+img: griesheim111.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
 tags: [about]
 ---
 
