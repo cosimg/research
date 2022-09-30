@@ -1,0 +1,35 @@
+---
+layout: page
+title: Kriegsspieler of the Month - Friedrich Adrian Herwarth von Bittenfeld (1802 - 1884)
+date: 2022-09-25 20:00:00 +0300
+description: 
+img: Herwarth_regiment.png # Add image post (optional)
+fig-caption: # The tropaeum Traiani as it would have appeared to 19th c. visitors (after Tocilesco, G.G. et al. 1895. Das Monument von Adamklissi - Tropaeum Traiani.  Wien: Alfred Hoelder, p. 1). # Add figcaption (optional)
+tags: [about]
+---
+
+*by Jorit Wintjes*
+
+In a postscriptum to the coverage of Reisswitz' inner circle, we turn to Friedrich Adrian Herwarth von Bittenfeld for this month's Kriegsspieler. While he is not explicitly mentioned among those helping Reisswitz in producing his initial publication, he is associated with the original group of Kriegsspielers in 1874 when Dannhauer produced his article on the Kriegsspiel's early history. Given the great attention the Kriegsspiel enjoyed in the mid-1870s and the fact that Dannhauer was still around there is no reason to assume that Herwarth von Bittenfeld did not belong to those first Kriegsspielers.
+
+Friedrich Adrian was born into an old noble family from Augsburg, which from the times of Frederick the Great onwards had developed into one of Prussia's outstandin military families. Friedrich Adrian's grandfather, Johann Friedrich, had been one of Frederick the Great's regimental commanders and was killed in the Battle of Kolin. His four sons all entered military service, as did his six grandsons. In three generations the family produced two majors, two lieutenant colonels, three colonels, one lieutenant general, one major general, one general and a field marshal; the great-grandsons would continue to pursue military careers, with for example Karl Eberhard having four sons, two of which were killed in the War of 1870, while the other two retired as major. Friedrich Adrian was the third son of Johann Friedrich's third and most successful son, Johann Eberhard Ernst, who reached the rank of major general. Friedrich Adrian's two older brothers both made general rank as well, with the oldest, Karl Eberhard, even rising to field marshal and, from 1889 onwards, having Infanterieregiment 13 named after him.
+
+![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Herwarth.png)
+
+The Herwarth von Bittenfeld family tree showing Johann Friedrich, his sons and grandsons.
+
+In 1819 he entered 2. Garde-Regiment zu Fuß in Berlin as a second lieutenant; there was a strong connection between the Herwarth von Bittenfeld family and the regiment, in which already Friedrich Adrian's oldest brother Karl Eberhard had made a name of himself during the Battle of Paris in 1814. Between 1823 and 1826 Friedrich Adrian was posted to the Allgemeine Kriegsschule, and after promotion to first lieutenant in 1834 he was eventually promoted captain in 1842, commanding one of the regiment's companies.
+
+![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Herwarth_regiment.png)
+
+Uniforms of the Infanterieregiment 13 "Herwarth von Bittenfeld" (W. von Blume, Geschichte des Infanterie-Regiments Herwarth von Bittenfeld im 19. Jahrhundert, Berlin 1910, Tafel I).
+
+In 1847 he was promoted Major and posted to Naumburg where he commanded the third battalion of Landwehrregiment 32, a unit which had originally been raised from several Landwehr battalions and put under the command of Carl von Clausewitz in 1815. Friedrich Adrian Herwarth von Bittenfeld served barely a year at Naumburg, however, before being posted back to Berlin, where he served for the following years at the war ministry. Promoted lieutenant colonel in 1853 and colonel in 1854, he took command of his old regiment in 1855. After two years he was posted to Halberstadt where he commanded 14. Infanteriebrigade. Promoted major general in 1858 he took over 3. Infanteriebrigade at Danzig in 1859, where he spent the following three years. 
+
+Promoted lieutenant general in 1861, he was put in charge of 4. Division in 1862. Under his command the division took part in the War of 1866, and Friedrich Adrian Herwarth von Bittenfeld led his men in the Battle of Königgrätz, where 4. Division was involved in heavy fighting in the Hola forest supporting 8. Division; his brother Karl Eberhard arrived on the battlefield around noon, commanding the Elbarmee. 4. Division was Friedrich Adrian's last field command. Soon after the war he was sent to Königsberg as the new commanding officer of the military garrison, a post he held for about a year. In 1868, after almost 50 years of service in the Prussian army he finally retired with the rank of general
+
+Herwarth von Bittenfeld's importance for the history of the Prussian Kriegsspiel is difficult to gauge. His career, while eminently successful, lacks the slightly extravagant aspects found in the careers of other early Kriegsspielers, and he was not active as a military writer or theorist. Reisswitz did not mention him in his preface; as however Dannhauer's account of the very early history of the Kriegsspiel seems to suggest there was a somewhat larger group of officers involved than only Dannhauer, Vincke and Griesheim, one should probably see Herwarth von Bittenfeld as someone belonging to a wider circle around Reisswitz. As one of that original group he will likely have been involved in the production of the supplement of 1828, though again he is not mentioned there (as is no-one else, one has to add). 
+
+At present, there is no in-depth stuy of Herwarth von Bittenfeld's biography extant, with only brief overviews over his career available. While no papers seem to have survived, a study of his biography in the context of his family covering the quite intriguing history of an eminently successful Prussian army family spanning several generations would be well worth the while.
+
+So much for this month and the original 1824 Kriegsspielers. Next month we will look at Carl von Decker, who was one of the two officers responsible for putting together the 1828 supplement to the original rules and who, together with his fellow editor Klamor August Ferdinand von Witzleben, is arguably the second rules designer in the history of the Prussian Kriegsspiel.
