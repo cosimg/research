@@ -1,3 +1,12 @@
+---
+layout: page
+title: Kriegsspieler of the Month - Friedrich Adrian Herwarth von Bittenfeld (1802 - 1884)
+date: 2022-09-25 20:00:00 +0300
+description: 
+img: Königgrätz.png # Add image post (optional)
+fig-caption: # The tropaeum Traiani as it would have appeared to 19th c. visitors (after Tocilesco, G.G. et al. 1895. Das Monument von Adamklissi - Tropaeum Traiani.  Wien: Alfred Hoelder, p. 1). # Add figcaption (optional)
+tags: [about]
+---
 
 This Kriegsspieler of the Month instalment is slightly different, as instead of covering Carl von Decker, as promised last month, it instead focuses on a single key event in Kriegsspiel history relevant to both the history of the Kriegsspiel itself and that of the Kriegsspielers. 
 
