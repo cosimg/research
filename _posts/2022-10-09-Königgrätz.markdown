@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kriegsspieler of the Month - The Battle of the Kriegsspielers
-date: 2022-10-25 20:00:00 +0300
+date: 2022-10-09 20:00:00 +0300
 description: 
 img: Königgrätz.png # Add image post (optional)
 fig-caption: # The tropaeum Traiani as it would have appeared to 19th c. visitors (after Tocilesco, G.G. et al. 1895. Das Monument von Adamklissi - Tropaeum Traiani.  Wien: Alfred Hoelder, p. 1). # Add figcaption (optional)
